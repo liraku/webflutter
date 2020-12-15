@@ -1,0 +1,4 @@
+#Mon Dec 14 18:59:54 CST 2020
+base.0=/Users/admin/Downloads/plugins-master/packages/webview_flutter/example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
